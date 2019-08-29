@@ -10,7 +10,9 @@
 
 int main(int argc, char **argv) {
 
-  printf("Gabe Ramsey and Ritvik Handa!\n");
+  printf("Gabe Ramsey\n");
   printf("Physics\n");
+  printf("Toan Nguyen\n");
+  printf("The trees in my country is speaking Vietnamese I'm scared\n");
   return 0;
 }
